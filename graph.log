@@ -1,0 +1,22 @@
+*   9f4e863 Agregando estaciones del a;io con fehca de incio
+|\  
+| * f1e9df2 agregando estaciones del anio
+* | 077caf5 Agregando estaciones del a;io con fehca de incio
+|/  
+*   d89be75 resolviendo conflicto merge main
+|\  
+| * 0f2ce0a agregando css a html
+* | d82cb2f agragando style.css al index.html
+|/  
+* baeecdb creando ino.html
+*   71c05f5 Merge branch 'js'
+|\  
+| * bd35e57 creando index.js
+* | 55469b8 creando style.css
+* | dfda4e7 creando archivo index.html
+|/  
+* 510a97d ignarando archivos .exe
+* 9be3193 Creando licencia del repositorio
+* b553292 agregando contenido inical al README
+* 3bac883 mensaje descriptivo del cambio
+* 9456816 primer cambio
